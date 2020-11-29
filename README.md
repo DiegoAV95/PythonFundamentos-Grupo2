@@ -1,7 +1,7 @@
 # PYTHON FUNDAMENTOS
 Material del Curso de Fundamentos de Programación con Python
 
-Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.github.io/PythonFundamentos-Grupo2).
+Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.github.io/PythonFundamentos).
 
 ## Contenido del Curso
 
@@ -34,3 +34,4 @@ Para instalar Anaconda y VsCode sigue el siguiente [link](https://gdelgador.gith
 ## Material Extra del Curso
 
 - [Hecktor Profe Python](https://docs.hektorprofe.net/python/) 
+- Guía de estilo escritura python: [PEP 8](https://www.python.org/dev/peps/pep-0008/?fbclid=IwAR1nA1UklLNW22-9t32Clybzyczj_i6EMA1fJdk9TwUe-OXLSriPQH9xKhE)
